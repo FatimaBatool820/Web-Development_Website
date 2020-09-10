@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.image{
+    text-align: center;
+    
+}
+img{
+    height: 300px;
+    width: 600px;
+    border-width: soild;
+    border-color: black;
+
+}
